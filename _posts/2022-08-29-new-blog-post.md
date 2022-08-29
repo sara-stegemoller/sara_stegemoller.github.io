@@ -1,6 +1,6 @@
 ## This is my first blog post.
 
-**What do you think being a data scientist is about? ** 
+**What do you think being a data scientist is about?** 
 
 Being a data scientists involves taking complex and large sets of data and making them more accessible and understanble. This includes things such as *data exploration, building models to answers questions, provide solutions, and making predictions.
 
