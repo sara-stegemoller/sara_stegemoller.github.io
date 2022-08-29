@@ -11,5 +11,6 @@ Data scienctists are knowledgeable in statistics, math, one or more programming 
 Data scientists have more of a critical thinking and creative approach to solving problems and answering questions using data, whereas statisticians seem to adhere more to the status quo. Truthfully, there are likely more similarities than differences, such as knowledge of statistics, math, programming, and basic comfortability with data.
 
 **How do you view yourself in relation to these two areas?**
+
 In one of the articles we were provided, the author writes *"Eventually, as more statisticians pick up on skills like implementing algorithms that learn from data, and provide predictions and actions and more data scientists pick up on statistical science (sampling, experimental design, confidence intervals, p-values, etc.) the boundary between data scientists and statisticians will eventually blur."*
 I would argue that any good data scientist must be versed in sampling, experimental design, confidence intervals, and p-values. So, to this end, I would say I am more of a statistician. However, in taking the defintion I provided above, I am much more closely aligned with a data scienctist, given that my main goal when working with data is usually to provide insights and digging deeper into the story the data is telling.
